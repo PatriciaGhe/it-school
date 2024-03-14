@@ -1,9 +1,6 @@
 # Compiled class file
 *.class
 .idea
-out/
-!/src/main//out/
-!/src/test//out/
 # Log file
 *.log
 
